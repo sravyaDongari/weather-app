@@ -44,13 +44,10 @@ Usage
 3.Use the "Toggle Dark Mode" button to switch between dark mode and light mode.
 
 Project Structure
-plaintext
-Copy code
 weather-app/
 ├── index.html
-├── styles.css
-├── script.js
-├── .gitignore
+├── index.css
+├── index.js
 ├── README.md
 └── screenshots/
     ├── light_mode.png
