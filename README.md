@@ -56,8 +56,8 @@ Code Overview
 index.html
 The main HTML file that includes the structure of the application.
 
-styles.css
+index.css
 Styles for the weather application, including responsive design and dark mode styling.
 
-script.js
+index.js
 JavaScript file that handles fetching weather data from the OpenWeatherMap API, displaying the weather information, and toggling dark mode.
