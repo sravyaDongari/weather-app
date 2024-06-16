@@ -13,7 +13,7 @@ This is a simple and user-friendly weather application built with HTML, CSS, and
 
 ## Screenshots
 
-![Weather App Light Mode](screenshots/light_mode.png)
+Weather App Light Mode
 
 
 <img width="552" alt="Screenshot 2024-06-16 at 10 50 44 AM" src="https://github.com/sravyaDongari/weather-app/assets/122468955/e405e5d7-1b31-4daf-b177-b7c21602cb66">
@@ -22,7 +22,7 @@ This is a simple and user-friendly weather application built with HTML, CSS, and
 
 
 
-![Weather App Dark Mode](screenshots/dark_mode.png)
+Weather App Dark Mode
 
 
 
