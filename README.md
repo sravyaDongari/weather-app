@@ -1,4 +1,4 @@
-# weather-app
+
 # Weather Application
 
 This is a simple and user-friendly weather application built with HTML, CSS, and JavaScript. The app allows users to fetch and display current weather information based on their input (city name or zip code). It includes features like dark mode toggle, responsive design, and detailed weather information.
@@ -14,6 +14,8 @@ This is a simple and user-friendly weather application built with HTML, CSS, and
 ## Screenshots
 
 ![Weather App Light Mode](screenshots/light_mode.png)
+
+
 <img width="552" alt="Screenshot 2024-06-16 at 10 50 44 AM" src="https://github.com/sravyaDongari/weather-app/assets/122468955/e405e5d7-1b31-4daf-b177-b7c21602cb66">
 
 
@@ -21,6 +23,9 @@ This is a simple and user-friendly weather application built with HTML, CSS, and
 
 
 ![Weather App Dark Mode](screenshots/dark_mode.png)
+
+
+
 <img width="547" alt="Screenshot 2024-06-16 at 10 51 24 AM" src="https://github.com/sravyaDongari/weather-app/assets/122468955/60dd593b-ba5c-4ba8-a9c3-90e43ae6331d">
 
 
